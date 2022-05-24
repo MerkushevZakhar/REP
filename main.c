@@ -1,12 +1,15 @@
 #include <iostream>
 
-def summation(int first, int second){
+int summation(int first, int second){
 	return first + second;
 }
 
-def subtraction(int first, int second){
+int subtraction(int first, int second){
 	return first - second;
 }
+
+//gatchi man
+// not gatchi man
 
 int int main(int argc, char const *argv[])
 {
