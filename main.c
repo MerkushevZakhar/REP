@@ -8,8 +8,6 @@ def subtraction(int first, int second){
 	return first - second;
 }
 
-
-
 int int main(int argc, char const *argv[])
 {
 	int test_int = 25;
